@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06_landing2_600</folder>
+	<filename>291.jpg</filename>
+	<path>C:\Users\admin\Desktop\06_landing2_600\291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>landingRed</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>1</ymin>
+			<xmax>640</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
